@@ -1,0 +1,8 @@
+.dockerignore
+.gitignore
+.git
+.circleci
+.pre-commit-config.yaml
+docker-compose.yml
+Makefile
+README.md
